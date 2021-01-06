@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://dsd06:dsd06@cuong-project.gs1zt.mongodb.net/payloads?retryWrites=true&w=majority",
+    "secret": "marchboy43"
+}
